@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Weather Forecast",
+  "Author": "StardewWeatherForecast",
+  "Version": "1.0.0",
+  "Description": "Displays the next three days' weather forecast in the top-right corner of the screen.",
+  "UniqueID": "StardewWeatherForecast.Mod",
+  "EntryDll": "StardewWeatherForecast.dll",
+  "MinimumApiVersion": "2.0.0",
+  "UpdateKeys": []
+}
